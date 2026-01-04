@@ -1,0 +1,63 @@
+text,intent
+"Where is my order???,",track_order
+track my order pls,track_order
+"order status,",track_order
+"can u track my package,",track_order
+"my order is not showing,",track_order
+"TRACK ORDER NOW,",track_order
+"order shipped or not?,",track_order
+"status of my order,",track_order
+"order id 12345 track,",track_order
+"where's my order!!!,",track_order
+"track order,",track_order
+"order tracking info,",track_order
+"still waiting for my order,",track_order
+,
+"cancel my order,",cancel_order
+"I want to cancel,",cancel_order
+"cancel order immediately,",cancel_order
+"please cancel my order,",cancel_order
+"cancel it now,",cancel_order
+"stop my order,",cancel_order
+"order cancel,",cancel_order
+cancel my order now,cancel_order
+,cancel_order
+cancel the order immediately,cancel_order
+,cancel_order
+I want to cancel this order,cancel_order
+,cancel_order
+stop my order,cancel_order
+,cancel_order
+please cancel order,cancel_order
+"refund status?,",refund_status
+"when will i get my refund,",refund_status
+"refund pending from last week,",refund_status
+"money not returned yet,",refund_status
+"refund still not processed,",refund_status
+"where is my refund??,",refund_status
+"refund refund refund,",refund_status
+"refund amount not received,",refund_status
+"refund delay issue,",refund_status
+,
+"delivery is late,",delivery_delay
+"order not delivered yet,",delivery_delay
+"delivery taking too long,",delivery_delay
+"my order is delayed adly,",delivery_delay
+"still not delivered!!!,",delivery_delay
+"why delivery late?,",delivery_delay
+"delivery delay issue,",delivery_delay
+"package not delivered yet,",delivery_delay
+"delayed delivery again,",delivery_delay
+"delivery time exceeded,",delivery_delay
+"late delivery prolem,",delivery_delay
+"delivery is very very late,",delivery_delay
+"delivery delayed 5 days,",delivery_delay
+"delivery delay delivery delay,",delivery_delay
+package has not arrived,delivery_delay
+"payment failed,",payment_issue
+"money deducted ut order not placed,",payment_issue
+"payment error occurred,",payment_issue
+"transaction unsuccessful,",payment_issue
+"payment failed again,",payment_issue
+"amount deited ut no order,",payment_issue
+"payment issue payment issue,",payment_issue
