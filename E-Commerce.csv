@@ -1,63 +1,63 @@
 text,intent
-"Where is my order???,",track_order
-track my order pls,track_order
-"order status,",track_order
-"can u track my package,",track_order
-"my order is not showing,",track_order
-"TRACK ORDER NOW,",track_order
-"order shipped or not?,",track_order
-"status of my order,",track_order
-"order id 12345 track,",track_order
-"where's my order!!!,",track_order
-"track order,",track_order
-"order tracking info,",track_order
-"still waiting for my order,",track_order
+"Where is my order???,",Track order
+track my order pls,Track order
+"order status,",Track order
+"can u track my package,",Track order
+"my order is not showing,",Track order
+"TRACK ORDER NOW,",Track order
+"order shipped or not?,",Track order
+"status of my order,",Track order
+"order id 12345 track,",Track order
+"where's my order!!!,",Track order
+"track order,",Track order
+"order tracking info,",Track order
+"still waiting for my order,",Track order
 ,
-"cancel my order,",cancel_order
-"I want to cancel,",cancel_order
-"cancel order immediately,",cancel_order
-"please cancel my order,",cancel_order
-"cancel it now,",cancel_order
-"stop my order,",cancel_order
-"order cancel,",cancel_order
-cancel my order now,cancel_order
-,cancel_order
-cancel the order immediately,cancel_order
-,cancel_order
-I want to cancel this order,cancel_order
-,cancel_order
-stop my order,cancel_order
-,cancel_order
-please cancel order,cancel_order
-"refund status?,",refund_status
-"when will i get my refund,",refund_status
-"refund pending from last week,",refund_status
-"money not returned yet,",refund_status
-"refund still not processed,",refund_status
-"where is my refund??,",refund_status
-"refund refund refund,",refund_status
-"refund amount not received,",refund_status
-"refund delay issue,",refund_status
+"cancel my order,",Cancel Order
+"I want to cancel,",Cancel Order
+"cancel order immediately,",Cancel Order
+"please cancel my order,",Cancel Order
+"cancel it now,",Cancel Order
+"stop my order,",Cancel Order
+"order cancel,",Cancel Order
+cancel my order now,Cancel Order
+,Cancel Order
+cancel the order immediately,Cancel Order
+,Cancel Order
+I want to cancel this order,Cancel Order
+,Cancel Order
+stop my order,Cancel Order
+,Cancel Order
+please cancel order,Cancel Order
+"refund status?,",Return / Refund
+"when will i get my refund,",Return / Refund
+"refund pending from last week,",Return / Refund
+"money not returned yet,",Return / Refund
+"refund still not processed,",Return / Refund
+"where is my refund??,",Return / Refund
+"refund refund refund,",Return / Refund
+"refund amount not received,",Return / Refund
+"refund delay issue,",Return / Refund
 ,
-"delivery is late,",delivery_delay
-"order not delivered yet,",delivery_delay
-"delivery taking too long,",delivery_delay
-"my order is delayed adly,",delivery_delay
-"still not delivered!!!,",delivery_delay
-"why delivery late?,",delivery_delay
-"delivery delay issue,",delivery_delay
-"package not delivered yet,",delivery_delay
-"delayed delivery again,",delivery_delay
-"delivery time exceeded,",delivery_delay
-"late delivery prolem,",delivery_delay
-"delivery is very very late,",delivery_delay
-"delivery delayed 5 days,",delivery_delay
-"delivery delay delivery delay,",delivery_delay
-package has not arrived,delivery_delay
-"payment failed,",payment_issue
-"money deducted ut order not placed,",payment_issue
-"payment error occurred,",payment_issue
-"transaction unsuccessful,",payment_issue
-"payment failed again,",payment_issue
-"amount deited ut no order,",payment_issue
-"payment issue payment issue,",payment_issue
+"delivery is late,",Delivery Delay
+"order not delivered yet,",Delivery Delay
+"delivery taking too long,",Delivery Delay
+"my order is delayed adly,",Delivery Delay
+"still not delivered!!!,",Delivery Delay
+"why delivery late?,",Delivery Delay
+"delivery delay issue,",Delivery Delay
+"package not delivered yet,",Delivery Delay
+"delayed delivery again,",Delivery Delay
+"delivery time exceeded,",Delivery Delay
+"late delivery prolem,",Delivery Delay
+"delivery is very very late,",Delivery Delay
+"delivery delayed 5 days,",Delivery Delay
+"delivery delay delivery delay,",Delivery Delay
+package has not arrived,Delivery Delay
+"payment failed,",Payment Issue
+"money deducted ut order not placed,",Payment Issue
+"payment error occurred,",Payment Issue
+"transaction unsuccessful,",Payment Issue
+"payment failed again,",Payment Issue
+"amount deited ut no order,",Payment Issue
+"payment issue payment issue,",Payment Issue
